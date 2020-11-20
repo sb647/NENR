@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="zad3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/zad3_jar</output-path>
+    <root id="archive" name="zad3.jar">
+      <element id="module-output" name="zad3" />
+    </root>
+  </artifact>
+</component>
